@@ -53,19 +53,22 @@
 СТО-консультант, тренер обучающих программ.  
 Контакты:  
 Telegram: [@ilya_prakht](https://t.me/ilya_prakht)  
-[LinkedIn](https://www.linkedin.com/in/ilya-prakht/) | Email: ilyaprakht@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/ilya-prakht/)
+Email: ilyaprakht@gmail.com  
 
 **Павел Турченко**  
 CTO в BIV Group, почти 20 лет в IT.  
 Контакты:  
 Telegram: [@pturchenko](https://t.me/pturchenko)  
-[LinkedIn](https://www.linkedin.com/in/pavel-turchenko/) | Email: turchenko.pavel@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/pavel-turchenko/)
+Email: turchenko.pavel@gmail.com  
 
 **Елена Павлова**  
 Руководитель отдела системного и бизнес-анализа.  
 Контакты:  
 Telegram: [@elena_p_sa](https://t.me/elena_p_sa)  
-[LinkedIn](https://www.linkedin.com/in/elena-v-pavlova/) | Email: elena.zakhozhaya@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/elena-v-pavlova/)
+Email: elena.zakhozhaya@gmail.com  
 
 ### Ближайшие мероприятия
 

@@ -50,7 +50,7 @@
 ### Оргкомитет
 
 **Илья Прахт**  
-![Илья Прахт](./ilya_prakht.jpg)
+![Илья Прахт](./ilya_prakht.jpg)  
 СТО-консультант, тренер обучающих программ.  
 Контакты:  
 Telegram: [@ilya_prakht](https://t.me/ilya_prakht)  
@@ -58,6 +58,7 @@ Telegram: [@ilya_prakht](https://t.me/ilya_prakht)
 Email: ilyaprakht@gmail.com  
 
 **Павел Турченко**  
+![Павел Турченко](./pavel_turchenko.jpg)    
 CTO в BIV Group, почти 20 лет в IT.  
 Контакты:  
 Telegram: [@pturchenko](https://t.me/pturchenko)  
@@ -65,6 +66,7 @@ Telegram: [@pturchenko](https://t.me/pturchenko)
 Email: turchenko.pavel@gmail.com  
 
 **Елена Павлова**  
+![Елена Павлова](./elena_pavlova.jpg)      
 Руководитель отдела системного и бизнес-анализа.  
 Контакты:  
 Telegram: [@elena_p_sa](https://t.me/elena_p_sa)  

@@ -1,4 +1,4 @@
-# CTO SPB Community
+# CTO Community "Путь CTO"
 
 ## Кто мы
 
